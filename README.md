@@ -1,29 +1,20 @@
-<div align="center">
+# 👋 Hi, I'mZoha Yousaf
 
-# 👋 Hi, I'm Zoha
+## 🎯 Currently
+- 100 Days of Machine Learning Mastery
+- Specializing in Predictive Analytics
+- Building real-world ML projects daily
 
-### 🤖 Aspiring Machine Learning Engineer | Predictive Analytics Specialist
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zoha-yousaf-6838013b8/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/sparksoul)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/SSoul39318)
+## 📊 Current Focus
+Predictive Machine Learning | Regression | Time Series | Classification
 
-</div>
+## 📫 Connect
+[LinkedIn]https://www.linkedin.com/in/zoha-yousaf-6838013b8/ | [Kaggle]https://www.kaggle.com/sparksoul | [Twitter]https://x.com/SSoul39318
 
 ---
-
-## 🎯 Current Mission
-
-```python
-class MLJourney:
-    def __init__(self):
-        self.current_challenge = "100 Days of ML Mastery"
-        self.focus = "Predictive Analytics"
-        self.day = 1
-        self.goal = "Expert-level ML Engineer"
-    
-    def daily_commitment(self):
-        return "Building real predictive models daily"
-
-
-        📅 Day 1/100 | Started: March 19, 2026S
+🚀 Day1/100 of ML Journey
