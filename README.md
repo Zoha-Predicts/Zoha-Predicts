@@ -28,4 +28,4 @@ class MLJourney:
 ---
 
 
-🚀 Day 1/100 of ML Journey
+🚀 Week 1: 🥷🏼"Day 1-7/100" of ML Journey🥷🏼
